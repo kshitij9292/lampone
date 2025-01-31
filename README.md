@@ -73,7 +73,7 @@ The handheld gaming device allows users to enjoy their favorite retro games from
    - Use the HDMI output to connect the device to your TV.
    - Stream media or play games on the big screen.
 
-
+![](https://github.com/kshitij9292/lampone/blob/main/image_2023-07-06_203854956.png?raw=true)
 
 ## Troubleshooting
 ### Common Issues
